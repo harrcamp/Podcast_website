@@ -1,5 +1,5 @@
-# Cannacast
-repository for Cannacast
+# Podcast_Channel 
+repository for Cannacast and other content brands
 
 
 
